@@ -6,3 +6,4 @@ git remote add origin "リモートリポジトリURL"
 git push origin master
 
 git status
+test
