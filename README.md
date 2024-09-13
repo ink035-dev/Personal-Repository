@@ -1,10 +1,7 @@
-## README.md [#Template]
+## README.md [Template]
 
 <!-- shield.io -->
-<img src="https://img.shields.io/badge/Sample-v0.1.0-red.svg?logo=atom&style=popout">
-<img src="https://img.shields.io/badge/-Markdown-1e90ff.svg?logo=markdown&style=popout">
-<img src="https://img.shields.io/badge/Git-Hub-ffffff.svg?logo=github&style=plastic">
-<img src="https://img.shields.io/badge/-Shields.io-green.svg?logo=shields.io&style=plastic">
+<img src="https://img.shields.io/badge/Sample-v0.1.0-red.svg?logo=atom&style=popout"> <img src="https://img.shields.io/badge/-Markdown-1e90ff.svg?logo=markdown&style=popout"> <img src="https://img.shields.io/badge/Git-Hub-ffffff.svg?logo=github&style=plastic"> <img src="https://img.shields.io/badge/Shields-IO-32e000.svg?logo=&style=plastic">
 
 
     Overvew...概要
