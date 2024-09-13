@@ -1,7 +1,7 @@
 ## [sample template]README.md
 
 <!-- shield.io -->
-<img src="https://img.shields.io/badge/sample-v1.0.0-red.svg?logo=atom&style=popout"> <img src="https://img.shields.io/badge/-Markdown-blue.svg?logo=markdown&style=plastic"> <img src="https://img.shields.io/badge/-Github-gray.svg?logo=github&style=plastic"> <img src="https://img.shields.io/badge/-Shields.io-brightgreen.svg?logo=shields.io&style=plastic">
+<img src="https://img.shields.io/badge/sample-v1.0.0-red.svg?logo=atom&style=popout">  <img src="https://img.shields.io/badge/-Markdown-blue.svg?logo=markdown&style=popout">  <img src="https://img.shields.io/badge/Git-Hub-ffffff.svg?logo=github&style=plastic">  <img src="https://img.shields.io/badge/-Shields.io-brightgreen.svg?logo=shields.io&style=social">
 
     Overvew...概要
     Overvew
@@ -72,17 +72,14 @@ attached file
 ## Support,Contacts
 
 HP: [https://website.com](https://****.com)  
-Github: [https://github.com/ink0035](https://github.com/ink0035)  
+Github: [https://github.com/ink035-dev](https://github.com/ink035dev)  
 sns: [@anonymous](https://****.com/****)  
 e-mail: [xxxx@mail.com](xxxx@gmail.com)
 
 ## License
 
-Copyright (c) [year] [name]  
+Copyright (c) [ year ] [ name ]  
 [MIT]( )
 
 ---
-- [ ] demo
-- [ ] example
-- [ ] tutorial
-- [ ] picture,gif  
+
