@@ -82,7 +82,7 @@ e-mail: [xxxx@mail.com](xxxx@gmail.com)
 ## License
 
 Copyright (c) [year] [name]  
-[MIT](http://****.mit-license.org)
+[MIT]( )
 
 ---
 - [ ] demo
