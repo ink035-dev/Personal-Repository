@@ -1,7 +1,8 @@
 ## [sample template]README.md
 
 <!-- shield.io -->
-<img src="https://img.shields.io/badge/sample-v1.0.0-red.svg?logo=atom&style=popout">  <img src="https://img.shields.io/badge/-Markdown-blue.svg?logo=markdown&style=popout">  <img src="https://img.shields.io/badge/Git-Hub-ffffff.svg?logo=github&style=plastic">  <img src="https://img.shields.io/badge/-Shields.io-brightgreen.svg?logo=shields.io&style=social">
+<img src="https://img.shields.io/badge/Sample-v0.1.0-red.svg?logo=atom&style=popout">  <img src="https://img.shields.io/badge/-Markdown-1e90ff.svg?logo=markdown&style=popout">
+ <img src="https://img.shields.io/badge/Git-Hub-ffffff.svg?logo=github&style=plastic">  <img src="https://img.shields.io/badge/-Shields.io-1.svg?logo=shields.io&style=plastic">
 
     Overvew...概要
     Overvew
