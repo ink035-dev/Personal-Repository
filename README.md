@@ -5,8 +5,8 @@
 ![ Preview-image ](preview_image.jpg)
 
 <!-- 概要 -->
-> Overview,CatchCopy
-> ...
+> Overview,CatchCopy  
+> Overview...
 - menu
     - description
     - features
