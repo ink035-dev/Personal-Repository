@@ -46,7 +46,7 @@ or read this -> [HelpMan](usr/dir/file.html)
 <!-- 必要条件,動作環境 -->
 - Machine Spec
     - OS,Version - xx.x
-- File size about xx.xMB
+- about File size - xx.xMB
 - Requirement...
 
 |T|a|b|l|e|
@@ -57,7 +57,7 @@ or read this -> [HelpMan](usr/dir/file.html)
 ## Install_Guide
 <!-- インストール手順 -->
 <!-- 
-    $bash-CLI-CommandLine
+    $bash-CLI-CommandLineTool
     もしくはこちらのリンクからDL的な
  -->
 ```
@@ -119,12 +119,10 @@ e-mail: [xxxx@gmail.com](xxxx@gmail.com)
 ## License
 
 Copyright(c) [year][name]  
-[MIT](LICENSE.txt)  
+  [MIT](LICENSE.txt)  
    
-   
-   
-   
+  
+  
 ---
-
  -->Please Enjoy, Fack you! =)  
 
