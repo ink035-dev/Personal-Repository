@@ -23,7 +23,7 @@
 
 ---
 
-## ~Description~
+## >Description
 <!-- 簡単な説明 -->
 Description  
 description  
@@ -32,7 +32,7 @@ description
 (demo,example)  
 ![ ](https://example_image.gif)  
 
-## ~Features~
+## ~ Features ~
 <!-- 機能紹介 -->
 - Features
 - Function
@@ -42,12 +42,17 @@ description
 For more information, see `$ sample --help`.  
 or read this -> [HelpMan](usr/dir/file.html)
 
-## ~Requirement~
+## Requirement
 <!-- 必要条件,動作環境 -->
 - Machine Spec
     - OS,Version - xx.x
 - File size about xx.xMB
 - Requirement...
+
+|T|a|b|l|e|
+|--|--|--|--|--|
+|--|--|--|--|--|
+|--|--|--|--|--|
 
 ## ~ Install_Guide ~
 <!-- インストール手順 -->
@@ -85,7 +90,7 @@ Tips
 note.
 :::
 
-## ~ Something,etc… ~
+## Something,etc… 
 <!--その他特記事項、添付data-->
 Anything...  
 
@@ -95,7 +100,7 @@ Attached_File
 [Release-Notes](CHANGELOG.md)
 [LICENSE](./filepath.txt)
 
-## ~Reference~
+## Reference
 <!-- 参照,引用元 -->
 [GitHub_Docs](https://docs.github.com/ja/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github)  
 [Markdown_Guide](https://www.markdownguide.org/)  
@@ -105,19 +110,19 @@ Attached_File
 [Keep_Changelog](https://keepachangelog.com/ja/1.1.0)  
 [MIT](https://opensource.org/license/mit)  
 
-## ~Support,info~
+## Support,info
 
   HP  : [https://website.com](https://****.com)  
 GitHub: [https://github.com/usrname](https://github.com/ink035-dev)  
 <!--  SNS : [@usrname](https://****.com/xxxx)  -->  
 e-mail: [xxxx@gmail.com](xxxx@gmail.com)  
 
-## ~License~
+## License
 
 Copyright(c) [year][name]  
 [MIT](LICENSE.txt)  
   
   
-  
- -> Please Enjoy, Fack you! =)  
+
+ ->Please Enjoy, Fack you! =)  
 ---
