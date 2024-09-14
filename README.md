@@ -5,8 +5,8 @@
 ![ Preview-image ](preview_image.jpg)
 
 <!-- 概要 -->
-    Overview,CatchCopy
-    ...
+> Overview,CatchCopy
+> ...
 - menu
     - description
     - features
@@ -124,5 +124,5 @@ Copyright(c) [year][name]
   
   
 ---
- -->Please Enjoy, Fack you! =)  
+ -->Please Enjoy, Fxxk you! =)  
 
