@@ -51,8 +51,8 @@ or read this -> [HelpMan](usr/dir/file.html)
 
 |T|a|b|l|e|
 |--|--|--|--|--|
-|--|--|--|--|--|
-|--|--|--|--|--|
+| o |o*|O*|-|x|
+|O|o|o|--|  |
 
 ## Install_Guide
 <!-- インストール手順 -->
@@ -70,9 +70,9 @@ $ sh setup.sh
 $ ...
 ```
 
-::: note warn  
-***CAUTION***  
-Warn_Label  
+::: note warn
+***CAUTION***
+Warn_Label
 :::
 
 ## Usage 
@@ -107,9 +107,13 @@ Attached_File
 [Markdown_Guide](https://www.markdownguide.org/)  
 
 [DARING_FIREBALL](https://daringfireball.net/projects/markdown/)  
+
 [Shields.io](https://shields.io/)
+
     [Icon_Generator](https://t8csp.csb.app/)   
+
 [Keep_Changelog](https://keepachangelog.com/ja/1.1.0)  
+
 [MIT](https://opensource.org/license/mit)  
 
 ## Support,info
@@ -123,10 +127,10 @@ e-mail: [xxxx@gmail.com](xxxx@gmail.com)
 
 Copyright(c) [year][name]  
 [MIT](LICENSE.txt)  
-
-
-
-
+  
+  
+  
+  
  ->Please Enjoy, Fack you! =)  
 
 ---
