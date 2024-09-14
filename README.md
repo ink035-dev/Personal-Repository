@@ -2,86 +2,122 @@
 
 <!-- shield.io -->
 <img src="https://img.shields.io/badge/Sample-v0.1.0-red.svg?logo=atom&style=popout"> <img src="https://img.shields.io/badge/-Markdown-1e90ff.svg?logo=markdown&style=popout"> <img src="https://img.shields.io/badge/Git-Hub-ffffff.svg?logo=github&style=plastic"> <img src="https://img.shields.io/badge/Shields-IO-32e000.svg?logo=&style=plastic">
+![ Preview-image ](preview_image.jpg)
 
+<!-- 概要 -->
+    Overview,CatchCopy
+    ...
+- menu
+    - description
+    - features
+    - requirement
+    - install_guide
+        - commandlinetool
+        - qa…lp
+    - usage
+    - etc.
+    - reference
+    - support,info
+        - contribution
+    - TroubleShooting
 
-    Overvew...概要
-    Overvew
+---
 
-## Description...簡単な説明
+## ~Description~
+<!-- 簡単な説明 -->
 Description  
-Description  
-Description  
+description  
+description  
 
-![ ](https://image-url.gif)  
+(demo,example)  
+![ ](https://example_image.gif)  
 
+## ~Features~
+<!-- 機能紹介 -->
+- Features
+- Function
+- UI
+- etc...
 
-## Features...機能
+For more information, see `$ sample --help`.  
+or read this -> [HelpMan](usr/dir/file.html)
 
-- Awesome function
-- Awesome UI
-- awesome features...
+## ~Requirement~
+<!-- 必要条件,動作環境 -->
+- Machine Spec
+    - OS,Version - xx.x
+- File size about xx.xMB
+- Requirement...
 
-For more information, see `sample --help`.
-
-## Requirement...必要条件
-
-- machine spec
-- os,version
-- Requirement ...
-
-## Installation...インストール手順
-
+## ~ Install_Guide ~
+<!-- インストール手順 -->
+<!-- 
+    $bash-CLI-CommandLine
+    もしくはこちらのリンクからDL的な
+ -->
 ```
-
 $ git clone https://github.com/****/sample
  
 $ cd sample
 
 $ sh setup.sh
 
-$ ~do anything~
-
+$ ...
 ```
 
-## Usage ...使い方
+:::note warn
+***CAUTION***
+Warn_Label 
+:::
 
-1. Usage
+## Usage 
 
-2. Usage
+1. usage
 
-3. Usage  
+2. usage
 
-## Anything Something ...その他、添付data
+3. usage  
 
+4. and more…
+
+:::note
+Tips
+note.
+:::
+
+## ~ Something,etc… ~
+<!--その他特記事項、添付data-->
 Anything...  
 
-attached file  
-[sample.pdf](docment.pdf)  
-[ARCHITECTURE.md](ARCHITECTURE.md)  
-[release notes](CHANGELOG.md)
+Attached_File  
+[usrs-guide_manual_help.pdf](docs.pdf)  
+[ARCHITECTURE.md](docs/ARCHITECTURE.md)  
+[Release-Notes](CHANGELOG.md)
+[LICENSE](./filepath.txt)
 
-## Reference…参照
-
-[Github Docs](https://docs.github.com/ja/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github)  
-[Markdown Guide](https://www.markdownguide.org/)  
-[DARING FIREBALL](https://daringfireball.net/projects/markdown/)  
+## ~Reference~
+<!-- 参照,引用元 -->
+[GitHub_Docs](https://docs.github.com/ja/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github)  
+[Markdown_Guide](https://www.markdownguide.org/)  
+[DARING_FIREBALL](https://daringfireball.net/projects/markdown/)  
 [Shields.io](https://shields.io/)
-  [icon Generator](https://t8csp.csb.app/)   
-[keep a changelog](https://keepachangelog.com/ja/1.1.0)  
+    [Icon_Generator](https://t8csp.csb.app/)   
+[Keep_Changelog](https://keepachangelog.com/ja/1.1.0)  
 [MIT](https://opensource.org/license/mit)  
 
-## Support,Contacts
+## ~Support,info~
 
-HP: [https://website.com](https://****.com)  
-Github: [https://github.com/ink035-dev](https://github.com/ink035dev)  
-sns: [@anonymous](https://****.com/****)  
-e-mail: [xxxx@mail.com](xxxx@gmail.com)
+  HP  : [https://website.com](https://****.com)  
+GitHub: [https://github.com/usrname](https://github.com/ink035-dev)  
+<!--  SNS : [@usrname](https://****.com/xxxx)  -->  
+e-mail: [xxxx@gmail.com](xxxx@gmail.com)  
 
-## License
+## ~License~
 
-Copyright (c) [ year ] [ name ]  
-[MIT](usr://rep)
-
-
-<!-- memo -->
-
+Copyright(c) [year][name]  
+[MIT](LICENSE.txt)  
+  
+  
+  
+ -> Please Enjoy, Fack you! =)  
+---
