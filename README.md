@@ -102,25 +102,30 @@ Attached_File
 
 ## Reference
 <!-- 参照,引用元 -->
--[GitHub_Docs](https://docs.github.com/ja/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github)  
--[Markdown_Guide](https://www.markdownguide.org/)  
--[DARING_FIREBALL](https://daringfireball.net/projects/markdown/)  
--[Shields.io](https://shields.io/)
-    -[Icon_Generator](https://t8csp.csb.app/)   
--[Keep_Changelog](https://keepachangelog.com/ja/1.1.0)  
--[MIT](https://opensource.org/license/mit)  
+[GitHub_Docs](https://docs.github.com/ja/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github)  
+
+[Markdown_Guide](https://www.markdownguide.org/)  
+
+[DARING_FIREBALL](https://daringfireball.net/projects/markdown/)  
+[Shields.io](https://shields.io/)
+    [Icon_Generator](https://t8csp.csb.app/)   
+[Keep_Changelog](https://keepachangelog.com/ja/1.1.0)  
+[MIT](https://opensource.org/license/mit)  
 
 ## Support,info
 
   HP  : [https://website.com](https://****.com)  
 GitHub: [https://github.com/usrname](https://github.com/ink035-dev)  
-<!--  SNS : [@usrname](https://****.com/xxxx)  -->
+<!--  SNS : [@usrname](https://****.com/xxxx) -->
 e-mail: [xxxx@gmail.com](xxxx@gmail.com)  
 
 ## License
 
 Copyright(c) [year][name]  
 [MIT](LICENSE.txt)  
+
+
+
 
  ->Please Enjoy, Fack you! =)  
 
